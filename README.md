@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sk Anarul</h1>
+<h1 align="center">Hi <img src="https://github.com/MartinHeinz/MartinHeinz/raw/master/wave.gif" width="30px" height="30px">, I'm Sk Anarul</h1>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7EA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Passionate+Competitive+Programmer;DevOps+Enthusiast" alt="Typing SVG" />
 </h3>
