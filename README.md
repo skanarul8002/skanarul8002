@@ -47,7 +47,7 @@
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
-  <img src="https://www.clever-cloud.com/img/favicon/favicon-32x32.png" alt="Clever Cloud" width="40" height="40"/>
+  <img src="[https://www.clever-cloud.com/img/favicon/favicon-32x32.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcloudinary.com%2F&psig=AOvVaw1NiTDczc_naxb0GO2lnL88&ust=1728399333895000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiH2bTD_IgDFQAAAAAdAAAAABAE)" alt="Clever Cloud" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
 </p>
 
