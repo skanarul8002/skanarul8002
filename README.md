@@ -3,7 +3,7 @@
 I'm a passionate **Full Stack Developer** with expertise in backend technologies like **Java, Spring Boot, and Hibernate**. I love building dynamic web applications and exploring new technologies.
 
 ### 🔭 I’m currently working on:
-- Building a **MERN Stack E-commerce Application** with integrated payment methods using **Stripe**.
+- Building a **MERN as Well as Java Full Stack** with integrated payment methods using **Stripe**.
 - Enhancing my skills in **Cloud Deployment** using AWS services like **EC2 and S3**.
 
 ### 🌱 I’m currently learning:
@@ -11,7 +11,7 @@ I'm a passionate **Full Stack Developer** with expertise in backend technologies
 - Exploring **DevOps tools** like **Docker, Jenkins, and Kubernetes** to streamline CI/CD pipelines.
 
 ### 👯 I’m looking to collaborate on:
-- Open Source projects that require **Java backend expertise**.
+- Open Source projects that require **React frontend & Java backend expertise**.
 - Innovative ideas that aim to solve real-world problems using **web technologies**.
 
 ### 💬 Ask me about:
@@ -21,7 +21,7 @@ I'm a passionate **Full Stack Developer** with expertise in backend technologies
 
 ### 📫 How to reach me:
 - Email: **skanarul8002@gmail.com**
-- LinkedIn: [Sk Anarul's LinkedIn](https://www.linkedin.com/in/sk-anarul/)
+- LinkedIn: [Sk Anarul](https://www.linkedin.com/in/sheikh-anarul)
 
 ### 😄 Pronouns:
 - He/Him
