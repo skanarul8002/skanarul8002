@@ -69,7 +69,7 @@
 
 ---
 
-## 🔗 Connect with Me:
+## 🤝 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/sk-anarul" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
