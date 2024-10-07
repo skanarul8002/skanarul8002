@@ -9,15 +9,39 @@
 
 ## <img src="https://img.icons8.com/emoji/48/000000/star-emoji.png" width="30" height="30"> About Me:
 
-- 🔭 **Currently exploring**: Building a MERN Stack and Java Full Stack Application with integrated payment methods using **Stripe**.
-- 🚀 **Learning**: Advanced concepts in **Spring Boot, Microservices Architecture**, and exploring **DevOps tools** like Docker, Jenkins, and Kubernetes.
-- 💡 **Experienced in**: Java, Spring Boot, Hibernate ORM, ReactJS, Redux, Tailwind CSS, Node.js, MySQL, AWS EC2, Jenkins, Docker, and Kubernetes.
-- 👯 **Looking to collaborate on**: Open Source projects and innovative ideas that solve real-world problems using web technologies.
-- 💬 **Ask me about**: Java, Spring Boot, Hibernate, Microservices, React, Redux, Tailwind CSS, CI/CD pipelines, and DevOps practices.
-- 📫 **Reach me at**: **skanarul8002@gmail.com**
-- 🌐 **Connect with me on**: [LinkedIn](https://www.linkedin.com/in/sk-anarul/)
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: I once participated in a swimming competition during my village festival and won **second prize**! I love the thrill of competition, whether it’s in sports or software development.
+🔭 *Currently exploring:* Building a MERN Stack and Java Full Stack Application with integrated payment methods using **Stripe**.
+
+&nbsp;
+
+🚀 *Learning:* Advanced concepts in Spring Boot, Microservices Architecture, and exploring DevOps tools like Docker, Jenkins, and Kubernetes.
+
+&nbsp;
+
+💡 *Experienced in:* Java, Spring Boot, Hibernate ORM, ReactJS, Redux, Tailwind CSS, Node.js, MySQL, AWS EC2, Jenkins, Docker, and Kubernetes.
+
+&nbsp;
+
+👯 *Looking to collaborate on:* Open Source projects and innovative ideas that solve real-world problems using web technologies.
+
+&nbsp;
+
+💬 *Ask me about:* Java, Spring Boot, Hibernate, Microservices, React, Redux, Tailwind CSS, CI/CD pipelines, and DevOps practices.
+
+&nbsp;
+
+📫 *Reach me at:* skanarul8002@gmail.com
+
+&nbsp;
+
+🌐 *Connect with me on:* [LinkedIn](https://www.linkedin.com/in/sk-anarul/)
+
+&nbsp;
+
+😄 *Pronouns:* He/Him
+
+&nbsp;
+
+⚡ *Fun fact:* I once participated in a swimming competition during my village festival and won **second prize**! I love the thrill of competition, whether it’s in sports or software development.
 
 ---
 
