@@ -9,9 +9,9 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 **Currently exploring:** Building a MERN Stack and Java Full Stack Application with integrated payment methods using **Stripe*.
+- 🔭 **Currently exploring:** Building a MERN Stack and Java Full Stack Application with integrated payment methods using **Stripe**.
 
-- 🚀 **Learning:** Advanced concepts in **Spring Boot, Microservices Architecture, and exploring **DevOps tools* like Docker, Jenkins, and Kubernetes.
+- 🚀 **Learning:** Advanced concepts in Spring Boot, Microservices Architecture, and exploring **DevOps tools* like Docker, Jenkins, and Kubernetes.
 
 - 💡 **Experienced in:** Java, Spring Boot, Hibernate ORM, ReactJS, Redux, Tailwind CSS, Node.js, MySQL, AWS EC2, Jenkins, Docker, and Kubernetes.
 
@@ -19,13 +19,13 @@
 
 - 💬 **Ask me about:** Java, Spring Boot, Hibernate, Microservices, React, Redux, Tailwind CSS, CI/CD pipelines, and DevOps practices.
 
-- 📫 **Reach me at:** **skanarul8002@gmail.com*
+- 📫 **Reach me at:** *skanarul8002@gmail.com*
   
 - 🌐 **Connect with me on:** [LinkedIn](https://www.linkedin.com/in/sheikh-anarul/)
 
 - 😄 **Pronouns:** He/Him
 
-- ⚡ **Fun fact:** I once participated in a swimming competition during my village festival and won **second prize*! I love the thrill of competition, whether it’s in sports or software development.
+- ⚡ **Fun fact:** I once participated in a swimming competition during my village festival and won **second prize**! I love the thrill of competition, whether it’s in sports or software development.
 
 
 ---
