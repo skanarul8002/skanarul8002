@@ -32,7 +32,7 @@
 
 ## 🛠️ Languages and Tools:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
