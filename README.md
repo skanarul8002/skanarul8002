@@ -31,18 +31,24 @@
 ---
 
 ## 🛠️ Languages and Tools:
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+  <img src="https://www.clever-cloud.com/img/favicon/favicon-32x32.png" alt="Clever Cloud" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/>
 </p>
 
 ---
