@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=skanarul8002&label=Profile%20views&color=0e75b6&style=flat" alt="skanarul8002" />
 </p>
 
-## About Me:
+## <img src="https://img.icons8.com/emoji/48/000000/star-emoji.png" width="30" height="30"> About Me:
 
 - 🔭 **Currently exploring**: Building a MERN Stack and Java Full Stack Application with integrated payment methods using **Stripe**.
 - 🚀 **Learning**: Advanced concepts in **Spring Boot, Microservices Architecture**, and exploring **DevOps tools** like Docker, Jenkins, and Kubernetes.
