@@ -9,31 +9,23 @@
 
 ## 🙋‍♂️ About Me:
 
-🔭 *Currently exploring:* Building a MERN Stack and Java Full Stack Application with integrated payment methods using **Stripe**.
+<p><img src="https://img.icons8.com/ios-filled/50/rocket.png" width="20" height="20"/> <b>Currently exploring:</b> Building a MERN Stack and Java Full Stack Application with integrated payment methods using <b>Stripe</b>.</p>
 
-&nbsp;
-🚀 *Learning:* Advanced concepts in Spring Boot, Microservices Architecture, and exploring DevOps tools like Docker, Jenkins, and Kubernetes.
+<p><img src="https://img.icons8.com/ios-filled/50/rocket.png" width="20" height="20"/> <b>Learning:</b> Advanced concepts in <b>Spring Boot</b>, <b>Microservices Architecture</b>, and exploring <b>DevOps tools</b> like Docker, Jenkins, and Kubernetes.</p>
 
-&nbsp;
-💡 *Experienced in:* Java, Spring Boot, Hibernate ORM, ReactJS, Redux, Tailwind CSS, Node.js, MySQL, AWS EC2, Jenkins, Docker, and Kubernetes.
+<p><img src="https://img.icons8.com/ios-filled/50/lightbulb.png" width="20" height="20"/> <b>Experienced in:</b> Java, Spring Boot, Hibernate ORM, ReactJS, Redux, Tailwind CSS, Node.js, MySQL, AWS EC2, Jenkins, Docker, and Kubernetes.</p>
 
-&nbsp;
-👯 *Looking to collaborate on:* Open Source projects and innovative ideas that solve real-world problems using web technologies.
+<p><img src="https://img.icons8.com/ios-filled/50/handshake.png" width="20" height="20"/> <b>Looking to collaborate on:</b> Open Source projects and innovative ideas that solve real-world problems using web technologies.</p>
 
-&nbsp;
-💬 *Ask me about:* Java, Spring Boot, Hibernate, Microservices, React, Redux, Tailwind CSS, CI/CD pipelines, and DevOps practices.
+<p><img src="https://img.icons8.com/ios-filled/50/speech-bubble.png" width="20" height="20"/> <b>Ask me about:</b> Java, Spring Boot, Hibernate, Microservices, React, Redux, Tailwind CSS, CI/CD pipelines, and DevOps practices.</p>
 
-&nbsp;
-📫 *Reach me at:* skanarul8002@gmail.com
+<p><img src="https://img.icons8.com/ios-filled/50/email.png" width="20" height="20"/> <b>Reach me at:</b> <a href="mailto:skanarul8002@gmail.com">skanarul8002@gmail.com</a></p>
 
-&nbsp;
-🌐 *Connect with me on:* [LinkedIn](https://www.linkedin.com/in/sk-anarul/)
+<p><img src="https://img.icons8.com/ios-filled/50/linkedin.png" width="20" height="20"/> <b>Connect with me on:</b> <a href="https://www.linkedin.com/in/sk-anarul/">LinkedIn</a></p>
 
-&nbsp;
-😄 *Pronouns:* He/Him
+<p><img src="https://img.icons8.com/emoji/48/000000/smiling-face-with-smiling-eyes.png" width="20" height="20"/> <b>Pronouns:</b> He/Him</p>
 
-&nbsp;
-⚡ *Fun fact:* I once participated in a swimming competition during my village festival and won **second prize**! I love the thrill of competition, whether it’s in sports or software development.
+<p><img src="https://img.icons8.com/ios-filled/50/flash.png" width="20" height="20"/> <b>Fun fact:</b> I once participated in a swimming competition during my village festival and won <b>second prize</b>! I love the thrill of competition, whether it’s in sports or software development.</p>
 
 ---
 
