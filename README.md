@@ -71,9 +71,7 @@
 
 ## 🏅 Holopin Badges:
 <p align="center">
-  <a href="https://holopin.io/@skanarul8002">
-    <img src="https://holopin.me/skanarul8002" alt="Holopin Badges" width="800"/>
-  </a>
+  [![Holopin badge](https://holopin.io/api/user/skanarul8002/badge/cm20d3mgr158310cl486xkh8su)](https://holopin.io/)
 </p>
 
 ---
