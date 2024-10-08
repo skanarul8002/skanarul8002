@@ -71,7 +71,7 @@
 
 ## 🏅 Holopin Badges:
 <p align="center">
-  [![Holopin badge](https://holopin.io/api/user/skanarul8002/badge/cm20d3mgr158310cl486xkh8su)](https://holopin.io/)
+ ![Holopin Badge](https://holopin.io/api/user/skanarul8002/badge/cm20d3mgr158310c1486xkh8su)
 </p>
 
 ---
