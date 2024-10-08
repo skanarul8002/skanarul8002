@@ -77,10 +77,14 @@
 
 ## 🤝 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/sk-anarul" target="blank">
+  <a href="https://linkedin.com/in/sheikh-anarul" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:skanarul8002@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
   </a>
+  <a href="https://www.instagram.com//" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+</a>
+
 </p>
