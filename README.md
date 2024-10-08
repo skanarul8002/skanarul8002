@@ -71,7 +71,7 @@
 
 ## 🏅 Holopin Badges:
 <p align="center">
- ![Holopin Badge](https://holopin.io/api/user/skanarul8002/badge/cm20d3mgr158310c1486xkh8su)
+ <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm20d3mgr158310cl486xkh8su" alt="Holopin" width="70" height="70"/>
 </p>
 
 ---
