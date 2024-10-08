@@ -71,7 +71,7 @@
 
 ## 🏅 Holopin Badges:
 <p align="center">
-[![Every moment is new](https://holopin.me/skanarul8002)](https://holopin.io/@skanarul8002)
+[![Holopin Badge](https://holopin.io/api/user/skanarul8002/badge/cm20d3mgr158310c1486xkh8su)](https://holopin.io/@skanarul8002)
 </p>
 
 ---
