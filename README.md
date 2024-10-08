@@ -83,7 +83,7 @@
   <a href="mailto:skanarul8002@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
   </a>
-  <a href="https://www.instagram.com//" target="_blank">
+  <a href="https://www.instagram.com/sk_anarul_8002/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
 </a>
 
