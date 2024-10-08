@@ -68,12 +68,6 @@
 </p>
 
 ---
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skanarul8002&theme=onedark&no-frame=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=MultiLanguage,Repositories,Commits,Stars,PullRequest,Issues,Followers,Reviews,Experience" />
-</p>
-
----
 
 ## 🤝 Connect with Me:
 <p align="left">
