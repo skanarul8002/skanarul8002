@@ -69,6 +69,15 @@
 
 ---
 
+## 🏅 Holopin Badges:
+<p align="center">
+  <a href="https://holopin.io/@skanarul8002">
+    <img src="https://holopin.me/skanarul8002" alt="Holopin Badges" width="800"/>
+  </a>
+</p>
+
+---
+
 ## 🤝 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/sk-anarul" target="blank">
