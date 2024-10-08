@@ -85,3 +85,4 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
   </a>
 </p>
+[![An image of @skanarul8002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/skanarul8002)](https://holopin.io/@skanarul8002)
