@@ -71,6 +71,7 @@
 
 ## 🏅 Holopin Badges:
 [![An image of @skanarul8002's Holopin badges](https://holopin.me/skanarul8002)](https://holopin.io/@skanarul8002)
+https://devfolio.co/frontend via @devfolioco 
 
 
 ---
