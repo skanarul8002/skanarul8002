@@ -27,8 +27,8 @@
 - 😄 **Pronouns:** He/Him
 
 - ⚡ **Fun fact:** I once participated in a swimming competition during my village festival and won **second prize**! I love the thrill of competition, whether it’s in sports or software development.
-
-
+---
+You can follow me for all upcoming global events! 🌍🎉
 ---
 
 ## 🛠️ Languages and Tools:
