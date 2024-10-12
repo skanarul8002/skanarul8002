@@ -12,7 +12,7 @@
 
 - 🔭 **Currently exploring:** Building a MERN Stack and Java Full Stack Application with integrated payment methods using **Stripe**.
 
-- 🚀 **Learning:** Advanced concepts in Spring Boot, Microservices Architecture, and exploring **DevOps tools* like Docker, Jenkins, and Kubernetes.
+- 🚀 **Learning:** Advanced concepts in Spring Boot, Microservices Architecture, and exploring **DevOps tools** like Docker, Jenkins, and Kubernetes.
 
 - 💡 **Experienced in:** Java, Spring Boot, Hibernate ORM, ReactJS, Redux, Tailwind CSS, Node.js, MySQL, AWS EC2, Jenkins, Docker, and Kubernetes.
 
