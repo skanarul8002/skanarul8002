@@ -27,8 +27,7 @@
 - 😄 **Pronouns:** He/Him
 
 - ⚡ **Fun fact:** I once participated in a swimming competition during my village festival and won **second prize**! I love the thrill of competition, whether it’s in sports or software development.
----
-You can follow me for all upcoming global events! 🌍🎉
+
 ---
 
 ## 🛠️ Languages and Tools:
@@ -52,11 +51,15 @@ You can follow me for all upcoming global events! 🌍🎉
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="70" height="70"/>
 </p>
 
+---
+
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skanarul8002&show_icons=true&theme=radical" alt="skanarul8002's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skanarul8002&layout=compact&theme=radical" alt="skanarul8002's Top Languages" />
 </p>
+
+---
 
 ## 🏆 GitHub Trophies:
 <p align="center">
@@ -72,7 +75,6 @@ You can follow me for all upcoming global events! 🌍🎉
 
 ---
 
-
 ## 🤝 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/sheikh-anarul" target="blank">
@@ -84,5 +86,9 @@ You can follow me for all upcoming global events! 🌍🎉
   <a href="https://www.instagram.com/sk_anarul_8002/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
 </a>
-
 </p>
+
+---
+You can follow me for all upcoming global events! 🌍🎉
+---
+
