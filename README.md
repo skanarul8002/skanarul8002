@@ -52,29 +52,17 @@ You can follow me for all upcoming global events! 🌍🎉
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="70" height="70"/>
 </p>
 
----
-
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skanarul8002&show_icons=true&theme=radical" alt="skanarul8002's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skanarul8002&layout=compact&theme=radical" alt="skanarul8002's Top Languages" />
 </p>
 
----
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github.com/ryo-ma/github-profile-trophy" />
-</p>
-
----
-
 ## 🏅 Holopin Badges:
 [![An image of @skanarul8002's Holopin badges](https://holopin.me/skanarul8002)](https://holopin.io/@skanarul8002)
+
 [![Devfolio Badge](https://pbs.twimg.com/card_img/1842312063433195520/GBoOzfmd?format=jpg&name=small)](https://devfolio.co/frontend)
- 
 
-
----
 
 ## 🤝 Connect with Me:
 <p align="left">
