@@ -58,10 +58,19 @@ You can follow me for all upcoming global events! 🌍🎉
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skanarul8002&layout=compact&theme=radical" alt="skanarul8002's Top Languages" />
 </p>
 
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=skanarul8002&theme=radical" alt="skanarul8002's GitHub Trophies" />
+</p>
+
+---
+
 ## 🏅 Holopin Badges:
 [![An image of @skanarul8002's Holopin badges](https://holopin.me/skanarul8002)](https://holopin.io/@skanarul8002)
 
 [![Devfolio Badge](https://pbs.twimg.com/card_img/1842312063433195520/GBoOzfmd?format=jpg&name=small)](https://devfolio.co/frontend)
+
+---
 
 
 ## 🤝 Connect with Me:
