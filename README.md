@@ -61,10 +61,15 @@ You can follow me for all upcoming global events! 🌍🎉
 </p>
 
 ---
-
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skanarul8002&show_icons=true&theme=radical" alt="skanarul8002's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skanarul8002&layout=compact&theme=radical" alt="skanarul8002's Top Languages" />
+</p>
+---
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skanarul8002&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github.com/ryo-ma/github-profile-trophy" />
 </p>
 
 ---
