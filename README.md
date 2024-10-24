@@ -71,7 +71,8 @@
 ## 🏅 Holopin Badges:
 [![An image of @skanarul8002's Holopin badges](https://holopin.me/skanarul8002)](https://holopin.io/@negativenagesh)
 
-[![Devfolio Badge](https://pbs.twimg.com/card_img/1842312063433195520/GBoOzfmd?format=jpg&name=small)](https://devfolio.co/frontend)
+[![Devfolio Badge](https://pbs.twimg.com/card_img/1847418478346620928/MD4ye21Y?format=jpg&name=small)](https://devfolio.co/frontend)
+
 
 ---
 
