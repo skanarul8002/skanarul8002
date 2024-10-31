@@ -77,7 +77,7 @@
 ---
 
 ## 🏅 GSSoC Badges
-<img src="https://github.com/user-attachments/assets/cdf94367-3b30-414e-9287-edcf52f0eaa4" alt="Java" width="250" height="290"/>
+<img src="https://github.com/user-attachments/assets/cdf94367-3b30-414e-9287-edcf52f0eaa4" alt="Java" width="250" height="350"/>
 
 ---
 
