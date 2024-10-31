@@ -77,11 +77,7 @@
 ---
 
 ## 🏅 GSSoC Badges
-![Share Badge](https://github.com/user-attachments/assets/cdf94367-3b30-414e-9287-edcf52f0eaa4)
-**Username:** skanarul8002  
-**🏆 Points:** 80  
-**🔥 PRs Merged:** 1  
-**🔖 Badges:** 0  
+<img src="https://github.com/user-attachments/assets/cdf94367-3b30-414e-9287-edcf52f0eaa4" alt="Java" width="70" height="70"/>
 
 ---
 
