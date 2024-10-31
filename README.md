@@ -76,6 +76,15 @@
 
 ---
 
+## 🏅 GSSoC Badges
+![Share Badge](https://github.com/user-attachments/assets/cdf94367-3b30-414e-9287-edcf52f0eaa4)
+**Username:** skanarul8002  
+**🏆 Points:** 80  
+**🔥 PRs Merged:** 1  
+**🔖 Badges:** 0  
+
+---
+
 ## 🤝 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/sheikh-anarul" target="blank">
