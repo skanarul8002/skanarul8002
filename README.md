@@ -74,7 +74,7 @@
 ---
 
 ## 🏅 Devfolio Badges:
-<img src="https://github.com/user-attachments/assets/4a35c5c9-126d-41af-9d9c-61f384de3936" alt="Devfolio-bedge" width="350" height="350"/>
+<img src="https://github.com/user-attachments/assets/4a35c5c9-126d-41af-9d9c-61f384de3936" alt="Devfolio-bedge" width="380" height="350"/>
 
 ---
 
