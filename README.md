@@ -81,7 +81,7 @@
 ## 🏅 GSSoC Badges
 
 <img src="https://github.com/user-attachments/assets/66164093-2767-4ed9-8659-ca2c64f02f79" alt="GSSoC-EXT" width="280" height="350"/>
-<img src="https://github.com/user-attachments/assets/cdf94367-3b30-414e-9287-edcf52f0eaa4" alt="GSSoC Bedge" width="250" height="350"/>
+<img src="https://github.com/user-attachments/assets/e02f57f9-dbac-474d-b658-8cd0b68899a5" alt="GSSoC Bedge" width="250" height="350"/>
 
 ---
 
